@@ -119,13 +119,14 @@ Our approach to analyzing the bank loan data involved a multi-step, systematic p
 
 ## Principal Visualizations
 
-### Powerbi Project
-[(https://github.com/krushnapriyaBodhankar/Bank-Loan-Analysis/blob/main/bank%20analysis%20powerbi.png)]
+### Summary Panel
+![summary](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/05d19ea3-9f54-4dbb-b4f3-b3e22c57d47c)
 
-### Excel project
-[(https://github.com/krushnapriyaBodhankar/Bank-Loan-Analysis/blob/main/bank%20loan%20analysis%20excel.png)]
+### Overview Display
+![overview](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/51acbbeb-90ea-4d62-bceb-82178e741e98)
 
-
+### Detailed Insights Interface
+![details](https://github.com/virajbhutada/Bank-Loan-Analysis-SQL-PowerBI-Excel-Tableau/assets/143819712/45f862e3-1205-4899-955e-79c3b7176673)
 
 ---
 
